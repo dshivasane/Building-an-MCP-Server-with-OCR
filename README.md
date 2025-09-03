@@ -1,4 +1,4 @@
-# Building an MCP Server with OCR: From Setup Struggles to Document Intelligence
+# Building an MCP Server with OCR: From Setup Struggles to Document Intelligence- Proof of Concept
 
 *A real-world journey of setting up Anthropic's Model Context Protocol server with advanced PDF processing capabilities*
 
