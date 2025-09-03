@@ -78,9 +78,9 @@ The server includes built-in security measures:
 
 ```python
 ALLOWED_PDF_DIRECTORIES = [
-    "C:\\Users\\Admin\\Documents",
-    "C:\\Users\\Admin\\Desktop\\pdfs", 
-    "C:\\Users\\Admin\\Downloads"
+    "/path/to/your/documents",
+    "/path/to/your/pdfs", 
+    "/path/to/your/downloads"
 ]
 ```
 
