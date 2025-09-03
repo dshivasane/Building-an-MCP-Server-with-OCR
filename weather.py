@@ -25,7 +25,7 @@ weather_data = {}
 pdf_cache = {}
 
 # Configure allowed PDF directories (for security)
-ALLOWED_PDF_DIRECTORIES = [ "C:\\Users\\Admin\\Desktop\\HOA\\pdfs"]
+ALLOWED_PDF_DIRECTORIES = ["/path/to/your/pdf/directory"]
 
 @server.list_tools()
 async def handle_list_tools() -> list[types.Tool]:
